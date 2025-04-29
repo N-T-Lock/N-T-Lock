@@ -4,7 +4,6 @@
 # N.T.Lock
 
 Aspiring offensive-security developer, free software enjoyer, amouter reverse enjennerer.
-The one that creates a program that starts all (and only those) programs that do not starts themself. Boomer as a state of mind.
 Currently studing at [UNIPD](https://www.unipd.it/).
 
 Blog: COMING SOON. 

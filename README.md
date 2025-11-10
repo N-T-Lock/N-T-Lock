@@ -6,5 +6,8 @@
 Aspiring offensive-security developer, free software enjoyer, amouter reverse enjennerer.
 Currently studing at [UNIPD](https://www.unipd.it/).
 
-Blog: COMING SOON. 
+[Blog](https://blog.ntlock.xyz/)  
 Dotfiles: COMING SOON. 
+
+Contacts:  
+[Email](mailto:ntlock@ntlock.xyz)
